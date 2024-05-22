@@ -3,7 +3,7 @@ const process = require('process');
 const fs = require('fs-extra');
 const diff = require('diff');
 
-const directoryToWatch = '/home/keeper/Documents/GitHub/LabHub_client' //внести путь к дериктории;
+const directoryToWatch = '' //enter file directory 
 
 const fileContents = {};
 
